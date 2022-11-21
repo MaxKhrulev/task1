@@ -1,0 +1,19 @@
+.horizbox {
+    width: 80vw;
+    height: 80vh;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background: #f5cb40;
+    min-width: 100px;
+    min-height: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .textbox {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: #a10000;
+    margin: 0%;
+  }  
